@@ -1,0 +1,26 @@
+#welcome {
+text-align: center;
+color: white;
+background-image: url("../img/h_img.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+height: 700px;
+}
+#aboutus{
+  text-align: center;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+#services{
+  text-align: center;
+  padding-left: 150px;
+  padding-right:150px;
+  background-image: url("../img/s_image.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  height: 400px;
+}
+#whatwedo{
+  text-align: center;
+}
