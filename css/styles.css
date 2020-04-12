@@ -59,11 +59,13 @@ height: 700px;
 }
 .projectName{
   display: none;
-  opacity: 1.0;
+  opacity: 1;
   background: white;
   color:black;
   width: 200px;
+  height: 300px
   bottom: 10px;
   padding: 3px;
   position: sticky;
+  text-align: center;
 }
