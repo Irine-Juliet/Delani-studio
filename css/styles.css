@@ -24,3 +24,12 @@ height: 700px;
 #whatwedo{
   text-align: center;
 }
+.hidedesign{
+  display: none;
+}
+.hidedev{
+  display: none;
+}
+.hideproduct{
+  display: none;
+}
