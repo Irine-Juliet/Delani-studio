@@ -24,12 +24,27 @@ height: 700px;
 #whatwedo{
   text-align: center;
 }
-.hidedesign{
+.hideDesign{
   display: none;
 }
-.hidedev{
+.hideDev{
   display: none;
 }
-.hideproduct{
+.hideProduct{
   display: none;
+}
+.clickDesign{
+  cursor: pointer;
+  transition: transform .5s ease;
+  overflow: hidden;
+}
+.clickDev{
+  cursor: pointer;
+  transition: transform .5s ease;
+  overflow: hidden;
+}
+.clickProduct{
+  cursor: pointer;
+  transition: transform .5s ease;
+  overflow: hidden;
 }
