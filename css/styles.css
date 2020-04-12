@@ -33,17 +33,17 @@ height: 700px;
 .hideProduct{
   display: none;
 }
-.clickDesign{
+.designIcon{
   cursor: pointer;
   transition: transform .5s ease;
   overflow: hidden;
 }
-.clickDev{
+.devIcon{
   cursor: pointer;
   transition: transform .5s ease;
   overflow: hidden;
 }
-.clickProduct{
+.productIcon{
   cursor: pointer;
   transition: transform .5s ease;
   overflow: hidden;
