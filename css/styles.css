@@ -75,6 +75,8 @@ height: 700px;
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
+  height: 500px;
+  width: 900px;
 }
 #name{
   width: 300px;
@@ -89,5 +91,8 @@ height: 700px;
   height: 200px;
   background-color: transparent;
   color: white;
-  padding-bottom: 100px;
+  padding-bottom: 10px;
+}
+body{
+  font-family: fantasy;
 }
