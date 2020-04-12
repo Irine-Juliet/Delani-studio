@@ -69,3 +69,25 @@ height: 700px;
   position: sticky;
   text-align: center;
 }
+#contactus{
+  text-align: center;
+  background-image: url("../img/c_image.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+#name{
+  width: 300px;
+  background-color: transparent;
+}
+#email{
+  width: 300px;
+  background-color: transparent;
+}
+#message{
+  width: 500px;
+  height: 200px;
+  background-color: transparent;
+  color: white;
+  padding-bottom: 100px;
+}
