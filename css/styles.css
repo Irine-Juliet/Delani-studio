@@ -50,5 +50,9 @@ height: 700px;
 }
 #portfolio{
   text-align: center;
-  
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.img{
+  padding: 25px;
 }
