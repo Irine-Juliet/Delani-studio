@@ -48,3 +48,7 @@ height: 700px;
   transition: transform .5s ease;
   overflow: hidden;
 }
+#portfolio{
+  text-align: center;
+  
+}
