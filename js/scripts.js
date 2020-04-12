@@ -11,4 +11,7 @@ $(document).ready(function() {
     $(".showProduct").slideToggle();
     $(".hideProduct").slideToggle();
   });
+  $(".img").hover(function() {
+    $(this).find(".projectName").toggle(400);
+  });
 });
