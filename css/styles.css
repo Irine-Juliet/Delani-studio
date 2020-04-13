@@ -80,10 +80,12 @@ height: 700px;
 }
 #name{
   width: 300px;
+  color: white;
   background-color: transparent;
 }
 #email{
   width: 300px;
+  color: white;
   background-color: transparent;
 }
 #message{
@@ -92,7 +94,4 @@ height: 700px;
   background-color: transparent;
   color: white;
   padding-bottom: 10px;
-}
-body{
-  font-family: fantasy;
 }
